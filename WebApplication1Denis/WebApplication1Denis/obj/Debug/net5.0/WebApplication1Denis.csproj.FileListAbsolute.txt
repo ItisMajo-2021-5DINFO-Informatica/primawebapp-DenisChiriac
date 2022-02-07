@@ -1,0 +1,8 @@
+C:\Users\Utente\Documents\GitHub\primawebapp-DenisChiriac\WebApplication1Denis\WebApplication1Denis\obj\Debug\net5.0\WebApplication1Denis.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-DenisChiriac\WebApplication1Denis\WebApplication1Denis\obj\Debug\net5.0\WebApplication1Denis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\GitHub\primawebapp-DenisChiriac\WebApplication1Denis\WebApplication1Denis\obj\Debug\net5.0\WebApplication1Denis.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-DenisChiriac\WebApplication1Denis\WebApplication1Denis\obj\Debug\net5.0\WebApplication1Denis.AssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\primawebapp-DenisChiriac\WebApplication1Denis\WebApplication1Denis\obj\Debug\net5.0\WebApplication1Denis.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-DenisChiriac\WebApplication1Denis\WebApplication1Denis\obj\Debug\net5.0\WebApplication1Denis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-DenisChiriac\WebApplication1Denis\WebApplication1Denis\obj\Debug\net5.0\WebApplication1Denis.RazorAssemblyInfo.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-DenisChiriac\WebApplication1Denis\WebApplication1Denis\obj\Debug\net5.0\WebApplication1Denis.RazorAssemblyInfo.cs
